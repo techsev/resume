@@ -69,9 +69,9 @@ Over 6 years of experience in Web Design and Development. Knowledgeable in HTML,
 
 * Other Shutter Boss features includes:
 
-	+ Production list that allowed 2 way communication between the plant manager and myself. 
+	+ Production list Intranet site that allowed 2 way communication between the plant manager and myself. 
 
-	+ Intranet site that allowed supervisors to browse all production orders since the system was activated. 
+	+ Intranet site that allowed President and supervisors to browse all production orders since the system was activated in 2010. 
 		
 	+ Create production reports and year to date charts as well as forecast required materials based on upcoming order variables such as colour, size, frame types etc
 
