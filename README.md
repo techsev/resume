@@ -1,19 +1,19 @@
-#Seve Savoie Teruel
+# Seve Savoie Teruel
 ## Full Stack Web Developer 
 
-Phone: 289-500-9924  
-Alt Voicemail Number: 647-947-5651  
-Email: info@SeveST.com  
+**Phone:** 289-500-9924  
+**Alt Voicemail Number:** 647-947-5651  
+**Email:** info@SeveST.com  
 www.SeveST.com  
-techsev.codepen.io  
-techsev.github.com  
-techsev.github.io/embetterment  
+www.codepen.io/techsev
+www.github.com/techsev
+http://techsev.github.io/embetterment  
 
-### Summary Of Qualifications ###
+### Summary Of Qualifications
 
 Over 6 years of experience in Web Design and Development. Knowledgeable in HTML, PHP, CSS, SASS, LESS, JS, Jquery and MySQL
 
-### Work Experience ###
+### Work Experience
 
 ## Lombardi Publishing Corp.
 ### Lead Web Developer
@@ -31,7 +31,7 @@ Over 6 years of experience in Web Design and Development. Knowledgeable in HTML,
 		- DailyGainsLetter.com
 		- InvestmentContrarians.com
 
-	+ Golddigging women who cheat on their husbands with rich older men.
+	+ Gold-digging women who cheat on their husbands with rich older men.
 		- EarnTheNecklace.com
 
 * Create Landing pages, squeeze pages, banner ads e.t.c
@@ -41,8 +41,6 @@ Over 6 years of experience in Web Design and Development. Knowledgeable in HTML,
 * Create and deploy between 3-6 daily email blast for various sites.
 
 * Update and manage email subscription system and create segments and A-B splits based on marketing departments needs.
-
-
 
 ## Numero Uno Web Solutions
 ### a Division of Lombardi Publishing Corp.
@@ -57,8 +55,6 @@ Over 6 years of experience in Web Design and Development. Knowledgeable in HTML,
 
 * Help clients with technical support issues such as setting up email accounts, logging into Wordpress site and creating a blog post, e.t.c
 
-
-
 ## Vinyl-Tek Shutters
 ### July 15th 2009 to October 1st 2012 
 ### System Developer & Shutter Production Manager
@@ -72,14 +68,12 @@ Over 6 years of experience in Web Design and Development. Knowledgeable in HTML,
 	+ Production list Intranet site that allowed 2 way communication between the plant manager and myself. 
 
 	+ Intranet site that allowed President and supervisors to browse all production orders since the system was activated in 2010. 
-		
+
 	+ Create production reports and year to date charts as well as forecast required materials based on upcoming order variables such as colour, size, frame types etc
 
 	+ Monitor each stage of the shutter production line and track employee performances and quotas
 
-
-
-### Education ###
+### Education
 
 ## Concordia Continuing Education
 ### Montreal, Qc
@@ -90,4 +84,3 @@ Diploma in Web Design
 ### Montreal, Qc
 2001-2004  
 Diploma in Collegial Studies (DCS) in Computer Science  
-
