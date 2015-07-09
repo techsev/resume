@@ -2,7 +2,6 @@
 ## Full Stack Web Developer 
 
 **Phone:** 289-500-9924  
-
 **Alt Voicemail Number:** 289-831-7548  
 **Email:** techsev@gmail.com  
 thebettermentofseve.com  
