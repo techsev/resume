@@ -4,9 +4,9 @@
 **Phone:** 289-500-9924  
 **Alt Voicemail Number:** 289-831-7548  
 **Email:** techsev@gmail.com  
-**Website:** www.thebettermentofseve.com  
-**Codepen:** www.codepen.io/techsev  
-**GitHub:** www.github.com/techsev  
+**Website:** http://thebettermentofseve.com  
+**Codepen:** http://www.codepen.io/techsev  
+**GitHub:** http://www.github.com/techsev  
 
 ### Summary Of Qualifications
 
