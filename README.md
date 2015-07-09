@@ -2,22 +2,46 @@
 ## Full Stack Web Developer 
 
 **Phone:** 289-500-9924  
-**Alt Voicemail Number:** 647-947-5651  
-**Email:** info@SeveST.com  
-www.SeveST.com  
+**Alt Voicemail Number:** 289-831-7548 
+**Email:** techsev@gmailc.om
+thebettermentofseve.com
 www.codepen.io/techsev
 www.github.com/techsev
-http://techsev.github.io/embetterment  
 
 ### Summary Of Qualifications
 
-Over 6 years of experience in Web Design and Development. Knowledgeable in HTML, PHP, CSS, SASS, LESS, JS, Jquery and MySQL
+Over 8 years of experience in Web Design and Development. 
+Knowledgeable in HTML, PHP, CSS, SASS, LESS, Twig, JS, Jquery, AngularJS and MySQL
 
 ### Work Experience
 
+## RC Design
+## Web Developer
+## March 2014 to Present
+
+* Helped completed and maintain our Legacy CMS sites as well as create new features for them. Site such as:
+	+ Magnawellness.ca
+	+ Hoedown.ca
+	+ NeighbourhoodNetwork.org
+	+ KTILtd.on.ca
+	+ AstonHill.ca
+	
+* Work with designers and developers to create a custom wordpress parent theme that is the starting point to most of our new projects.
+
+* All new webpages built using wordpress CMS and various other technologies, some pre-existing, some custom made:
+	+ Equilease.com
+	+ Darcytoombs.ca
+	+ NeigborhoodNetwork.ca
+	+ InforAcquisitioncorp.com
+
+* Working with Large Scale Vending Machine manufacturer to create software network of vending machines that communicate with the primary server that allows for maintenance as well as advertisment and product updates from any browser enabled device. 
+
+* Wireframe UX layouts for larger scale projects. 
+
+
 ## Lombardi Publishing Corp.
 ### Lead Web Developer
-### October 1st 2012 to Present
+### October 1st 2012 to March 2014
 
 * Maintain over a half dozen Wordpress blogs on different subjects such as 
 
