@@ -2,11 +2,12 @@
 ## Full Stack Web Developer 
 
 **Phone:** 289-500-9924  
-**Alt Voicemail Number:** 289-831-7548 
-**Email:** techsev@gmailc.om
-thebettermentofseve.com
-www.codepen.io/techsev
-www.github.com/techsev
+
+**Alt Voicemail Number:** 289-831-7548  
+**Email:** techsev@gmail.com  
+thebettermentofseve.com  
+www.codepen.io/techsev  
+www.github.com/techsev  
 
 ### Summary Of Qualifications
 
