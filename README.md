@@ -41,7 +41,7 @@ Knowledgeable in HTML, PHP, CSS, SASS, LESS, Twig, JS, Jquery, AngularJS and MyS
 
 ## Lombardi Publishing Corp.
 ### Lead Web Developer
-### October 1st 2012 to March 2014
+### October 1st 2012 to March 1st 2014
 
 * Maintain over a half dozen Wordpress blogs on different subjects such as 
 
@@ -69,7 +69,7 @@ Knowledgeable in HTML, PHP, CSS, SASS, LESS, Twig, JS, Jquery, AngularJS and MyS
 ## Numero Uno Web Solutions
 ### a Division of Lombardi Publishing Corp.
 ### Lead Web Developer
-### October 1st 2012 to Present
+### October 1st 2012 to March 1st 2014
 
 * Work with Department manager to quote hours required for client work.
 
