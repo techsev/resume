@@ -26,15 +26,15 @@ Knowledgeable in HTML, PHP, CSS, SASS, LESS, Twig, JS, Jquery, AngularJS and MyS
 	+ KTILtd.on.ca
 	+ AstonHill.ca
 	
-* Work with designers and developers to create a custom wordpress parent theme that is the starting point to most of our new projects.
+* Work with designers and developers to create a custom Wordpress parent theme that is the starting point to most of our new projects.
 
-* All new webpages built using wordpress CMS and various other technologies, some pre-existing, some custom made:
+* All new webpages built using Wordpress CMS and various other technologies, some pre-existing, some custom made:
 	+ Equilease.com
 	+ Darcytoombs.ca
 	+ NeigborhoodNetwork.ca
 	+ InforAcquisitioncorp.com
 
-* Working with Large Scale Vending Machine manufacturer to create software network of vending machines that communicate with the primary server that allows for maintenance as well as advertisment and product updates from any browser enabled device. 
+* Working with Large Scale Vending Machine manufacturer to create software network of vending machines that communicate with the primary server that allows for maintenance as well as advertisement and product updates from any browser enabled device. 
 
 * Wireframe UX layouts for larger scale projects. 
 
@@ -73,7 +73,7 @@ Knowledgeable in HTML, PHP, CSS, SASS, LESS, Twig, JS, Jquery, AngularJS and MyS
 
 * Work with Department manager to quote hours required for client work.
 
-* Depending on scope of work / budget of client, either hand code a website using various frameworks or simply setup a Wordpress site using either a pre-existing theme or a custom theme created by the graphic designers. 
+* Depending on scope of work / budget of client, either hand code a website using various frameworks or simply setup a Wordpress site using either a preexisting theme or a custom theme created by the graphic designers. 
 
 * Install and maintain various SEO tools on client Wordpress sites and make changes to sites based on feedback and recommendation from the SEO team in India.
 
@@ -102,9 +102,9 @@ Knowledgeable in HTML, PHP, CSS, SASS, LESS, Twig, JS, Jquery, AngularJS and MyS
 ## Concordia Continuing Education
 ### Montreal, Qc
 2004 - 2006  
-Diploma in Web Design  
+Continuing Education Diploma in Web Design  
 
 ## John Abbott College
 ### Montreal, Qc
 2001-2004  
-Diploma in Collegial Studies (DCS) in Computer Science  
+Diploma in College Studies (DCS) in Computer Science  
