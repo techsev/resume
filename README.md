@@ -34,7 +34,7 @@ Knowledgeable in HTML, PHP, CSS, SASS, LESS, Twig, JS, Jquery, AngularJS and MyS
 	+ NeigborhoodNetwork.ca
 	+ InforAcquisitioncorp.com
 
-* Working with Large Scale Vending Machine manufacturer to create software network of vending machines that communicate with the primary server that allows for maintenance as well as advertisement and product updates from any browser enabled device. 
+* Working with Large Scale Vending Machine manufacturer to create software for network of vending machines that communicate with the primary server. It that allows for maintenance, as well as advertisement and product updates, from any browser enabled device. 
 
 * Wireframe UX layouts for larger scale projects. 
 
