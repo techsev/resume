@@ -15,9 +15,18 @@ Knowledgeable in HTML, PHP, CSS, SASS, LESS, Twig, JS, Jquery, AngularJS and MyS
 
 ### Work Experience
 
+## Cinnamon Toast
+## Senior Web Developer
+## September 2015 to Present
+
+Web stuff
+
+
+
+
 ## RC Design
-## Web Developer
-## March 2014 to Present
+## Full Stack Web Developer
+## March 2014 to September 2015
 
 * Helped completed and maintain our Legacy CMS sites as well as create new features for them. Site such as:
 	+ Magnawellness.ca
